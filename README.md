@@ -1,5 +1,5 @@
-# To-Do-List
-The ToDoList app is a productivity tool designed to help users organize and manage their tasks efficiently.
+# To-Do List
+The To-Do List app is a productivity tool designed to help users organize and manage their tasks efficiently.
 
 PREVIEW-
 
